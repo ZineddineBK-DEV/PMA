@@ -35,7 +35,7 @@ app.use((req, res, next) => {
 mongoose.set("strictQuery", true);
 mongoose   
   .connect(
-    "mongodb+srv://root:root@pmacluster.dvzi5iq.mongodb.net/?retryWrites=true&w=majority",
+    "mongodb+srv://root:rootpma@pmacluster.dr2i1ho.mongodb.net/PMA-db?retryWrites=true&w=majority",
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,
