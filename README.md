@@ -4,13 +4,13 @@ Project management analysis App
 
 to run the project :
 
-run Server side
+#run Server side
 
-cd PMA-Backend
+cd PMA-Backend            
 npm run server or npm start
 
-run client side
+#run client side
 
-cd PMA-Frontend
+cd PMA-Frontend           
 ng serve or npm start
 
